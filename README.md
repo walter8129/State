@@ -1,2 +1,2 @@
 # State
-simple state management module for LUA
+Simple State Management Library for ROBLOX
